@@ -1,6 +1,10 @@
 {
   "name": "hope-ui-theme",
   "version": "2.0.0",
+  "description": "Hope UI HTML version as NPM-compatible package",
   "main": "assets/js/hope.min.js",
-  "style": "assets/css/style.css"
+  "style": "assets/css/style.css",
+  "keywords": ["hope-ui", "admin-template", "bootstrap"],
+  "author": "Stefanus Joehendy",
+  "license": "MIT"
 }
