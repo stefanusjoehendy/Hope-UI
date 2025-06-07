@@ -1,5 +1,5 @@
 {
-  "name": "hope-ui-theme",
+  "name": "hope-ui",
   "version": "2.0.0",
   "description": "Hope UI HTML version as NPM-compatible package",
   "main": "assets/js/hope.min.js",
