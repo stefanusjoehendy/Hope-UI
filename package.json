@@ -5,6 +5,7 @@
   "main": "assets/js/hope.min.js",
   "style": "assets/css/style.css",
   "keywords": ["hope-ui", "admin-template", "bootstrap"],
+  "files": ["assets/"],
   "author": "Stefanus Joehendy",
   "license": "MIT"
 }
